@@ -145,13 +145,14 @@ footer p{
     
 
 #loja{
-       background-image: url('./css/images/2.png');
+       background-image: url(./2.png);
        background-size: cover;
        background-position: top left;
         width: 100vw;
         height:567.6px ;
         z-index: -2;
 }
+
 .background{
     height:567.6px ;
 }
