@@ -144,8 +144,8 @@ footer p{
 @media (max-width:1000px) {
     
 
-    #loja{
-       background-image: url('/css/images/2.png');
+#loja{
+       background-image: url('./css/images/2.png');
        background-size: cover;
        background-position: top left;
         width: 100vw;
