@@ -144,16 +144,22 @@ footer p{
     
 
     #loja{
-       background-image: url(./css/images/2.png);
+       background-image: url('/css/images/2.png');
        background-size: cover;
        background-position: top left;
         width: 100vw;
         height:567.6px ;
         z-index: -2;
-
-
-     
-    }
+}
+.background{
+    height:567.6px ;
+}
+header{
+    margin-bottom: 10vh;
+}
+section p {
+    text-align: center;
+}
         #loja p{
             position: relative;
             right:-300px;
