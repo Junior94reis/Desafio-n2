@@ -128,7 +128,7 @@ footer{
     width: 100vw;
     height: 5vh;
     background: #181818; 
-       display: flex;
+    display: flex;
     justify-content: center;
     align-items: center;
     margin-top:80px;
